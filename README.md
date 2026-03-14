@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
- Hellooo! I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI/UX, and front-end development. I specialize in bridging the gap between aesthetic design and functional code.
+I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI/UX, and front-end development. I specialize in bridging the gap between aesthetic design and functional code.
 </p>
 
 <a href="mailto:mhainesebido25@gmail.com">
