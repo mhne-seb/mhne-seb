@@ -4,8 +4,8 @@
 
 <a href="https://github.com/Readme-Workflows/readme-typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Front-end+Developer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Front-end+Developer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Front-end+Developer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Front-end+Developer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Front-end+Developer" alt="Typing SVG" />
   </picture>
 </a>
@@ -58,12 +58,12 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 ### 🌐 My Website
 
 <p>
-  Visit my website <a href="https://mhaine-portfolio.vercel.app"><b>mhaine-portfolio.vercel.app</b></a>
+  Visit my website <a href="https://mhaine-portfolio.vercel.app" style="color: #000000;"><b>mhaine-portfolio.vercel.app</b></a>
 </p>
 
 <div align="center">
   <a href="https://mhaine-portfolio.vercel.app">
-    <img src="portfolio.png" width="700px" style="border-radius: 8px;" alt="Mhaine's Portfolio Preview" />
+    <img src="portfolio.png" width="700px" style="border-radius: 8px; border: 2px solid #000000;" alt="Mhaine's Portfolio Preview" />
   </a>
 </div>
 
@@ -75,19 +75,32 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=00000000&hide_border=false&border_color=555555">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&theme=transparent&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000&hide_border=false&border_color=000000">
-    <img alt="Mhaine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&theme=transparent">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=00000000&border_color=555555&hide_border=false&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000&border_color=000000&hide_border=false&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00000000&border_color=000000&hide_border=false&border_radius=10" alt="Mhaine's GitHub Stats" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&bg_color=00000000&hide_border=false&border_color=555555">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&theme=transparent&title_color=000000&text_color=000000&bg_color=00000000&hide_border=false&border_color=000000">
-    <img alt="Mhaine's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&theme=transparent">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&title_color=58a6ff&text_color=ffffff&bg_color=00000000&border_color=555555&hide_border=false&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&title_color=000000&text_color=000000&bg_color=00000000&border_color=000000&hide_border=false&border_radius=10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&title_color=000000&text_color=000000&bg_color=00000000&border_color=000000&hide_border=false&border_radius=10" alt="Mhaine's Top Languages" />
   </picture>
 
-  <br/><br/>
+  <br/>
+  <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mhne-seb&theme=transparent&fire=00d4ff&ring=00d4ff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&hide_border=false&border=555555">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mhne-seb&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=00000000&border=555555&stroke=555555&hide_border=false&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mhne-seb&fire=000000&ring=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&background=00000000&border=000000&stroke=000000&hide_border=false&border_radius=10">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhne-seb&fire=000000&ring=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&background=00000000&border=000000&stroke=000000&hide_border=false&border_radius=10" alt="Mhaine's GitHub Streak" />
+  </picture>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <a href="mailto:mhainesebido25@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_build_something_awesome_together!_🚀-000000?style=for-the-badge&logoColor=white" alt="Contact Me" />
+  </a>
+</div>
