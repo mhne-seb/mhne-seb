@@ -54,7 +54,7 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 ### 🌐 My Website
 
 <p>
-  This is my Web App <a href="https://mhaine-portfolio.vercel.app" style="color: #000000;"><b>mhaine-portfolio.vercel.app</b></a>, which you can visit anytime.
+  Visit my website <a href="https://mhaine-portfolio.vercel.app" style="color: #000000;"><b>mhaine-portfolio.vercel.app</b></a>
 </p>
 
 <div align="center">
