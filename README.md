@@ -62,7 +62,7 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 </p>
 
 <div align="center">
-  <a href="https://mhaine-portfolio.vercel.app">
+  <a href="https://mhainems.vercel.app/">
     <img src="portfolio.png" width="700px" style="border-radius: 8px; border: 2px solid #000000;" alt="Mhaine's Portfolio Preview" />
   </a>
 </div>
