@@ -27,7 +27,7 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 <hr>
 <br>
 
-### 🌐 My Website
+###  My Website
 
 <p>
   Visit my website <a href="https://mhainems.vercel.app/" style="color: #000000;"><b>https://mhainems.vercel.app/</b></a>
@@ -71,7 +71,7 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 <hr>
 <br>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <picture>
