@@ -62,7 +62,7 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 </div>
 <br>
 
-<h3 align="center">🦋 GitHub Stats 🦋</h3>
+<h3 align="center">🍃 GitHub Stats 🍃</h3>
 
 <div align="center">
   <picture>
