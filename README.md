@@ -68,14 +68,9 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=A3B18A&icon_color=DDA15E&text_color=FEFAE0&bg_color=283618&border_color=606C38&hide_border=false&border_radius=10">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=283618&icon_color=BC6C25&text_color=588157&bg_color=FEFAE0&border_color=A3B18A&hide_border=false&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=283618&icon_color=BC6C25&text_color=588157&bg_color=FEFAE0&border_color=A3B18A&hide_border=false&border_radius=10" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=283618&icon_color=BC6C25&text_color=588157&bg_color=FEFAE0&border_color=A3B18A&hide_border=false&border_radius=10" alt="" />
   </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&title_color=A3B18A&text_color=FEFAE0&bg_color=283618&border_color=606C38&hide_border=false&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&title_color=283618&text_color=588157&bg_color=FEFAE0&border_color=A3B18A&hide_border=false&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhne-seb&layout=compact&title_color=283618&text_color=588157&bg_color=FEFAE0&border_color=A3B18A&hide_border=false&border_radius=10" alt="Top Languages" />
-  </picture>
 
   <br/>
   <br/>
@@ -92,14 +87,14 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=A3B18A&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+🌿;Let's+build+something+together!+✨">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=588157&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+🌿;Let's+build+something+together!+✨">
-    <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=588157&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+🌿;Let's+build+something+together!+✨" alt="Footer Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=A3B18A&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+%F0%9F%8C%BF;Let%27s+build+something+together!+%E2%9C%A8">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=588157&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+%F0%9F%8C%BF;Let%27s+build+something+together!+%E2%9C%A8">
+    <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=588157&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+%F0%9F%8C%BF;Let%27s+build+something+together!+%E2%9C%A8" alt="Footer Typing SVG" />
   </picture>
   <br>
 
   <a href="mailto:mhainesebido25@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Connect!-588157?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+    <img src="https://img.shields.io/badge/Let%27s_Connect!-588157?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
   </a>
   <br><br>
 
