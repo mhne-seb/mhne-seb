@@ -62,37 +62,6 @@ I'm a <b>3rd-year college student</b> deeply passionate about graphic design, UI
 </div>
 <br>
 
-<h3 align="center">🍃 GitHub Stats 🍃</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=A3B18A&icon_color=DDA15E&text_color=FEFAE0&bg_color=283618&border_color=606C38&hide_border=false&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=283618&icon_color=BC6C25&text_color=588157&bg_color=FEFAE0&border_color=A3B18A&hide_border=false&border_radius=10">
-    <img src="https://github-readme-stats.vercel.app/api?username=mhne-seb&show_icons=true&title_color=283618&icon_color=BC6C25&text_color=588157&bg_color=FEFAE0&border_color=A3B18A&hide_border=false&border_radius=10" alt="" />
-  </picture>
-
-
-  <br/>
-  <br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mhne-seb&fire=DDA15E&ring=A3B18A&currStreakLabel=A3B18A&sideNums=FEFAE0&sideLabels=FEFAE0&dates=FEFAE0&background=283618&border=606C38&stroke=606C38&hide_border=false&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mhne-seb&fire=BC6C25&ring=588157&currStreakLabel=588157&sideNums=283618&sideLabels=283618&dates=283618&background=FEFAE0&border=A3B18A&stroke=A3B18A&hide_border=false&border_radius=10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhne-seb&fire=BC6C25&ring=588157&currStreakLabel=588157&sideNums=283618&sideLabels=283618&dates=283618&background=FEFAE0&border=A3B18A&stroke=A3B18A&hide_border=false&border_radius=10" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=A3B18A&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+%F0%9F%8C%BF;Let%27s+build+something+together!+%E2%9C%A8">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=588157&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+%F0%9F%8C%BF;Let%27s+build+something+together!+%E2%9C%A8">
-    <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=400&size=26&pause=1000&color=588157&center=true&vCenter=true&width=600&lines=Thanks+for+dropping+by!;Have+a+wonderful+day+%F0%9F%8C%BF;Let%27s+build+something+together!+%E2%9C%A8" alt="Footer Typing SVG" />
-  </picture>
-  <br>
-
   <a href="mailto:mhainesebido25@gmail.com">
     <img src="https://img.shields.io/badge/Let%27s_Connect!-588157?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
   </a>
